@@ -5,9 +5,9 @@ public class twoDArrays
 		public static void main(String[] args)
 			{
 				columnChallenge();
-				MhsChallenge();
-				oneToNine();
-				threeDimension();
+				//MhsChallenge();
+				//oneToNine();
+				//threeDimension();
 			}
 
 		private static void columnChallenge()
